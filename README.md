@@ -19,7 +19,7 @@
 <p align="center">
 <a href="https://fb.com/邱頎霖" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="邱頎霖" height="50" width="50" /></a>
 <a href="https://instagram.com/chilin200" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="chilin200" height="50" width="50" /></a>
- <a href="https://codepen.io/chilin" target="blank"></a>
+ <a href="https://codepen.io/chilin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="chilin" height="20" width="20" /></a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=chilin0525" alt="chilin0525" /> </p>
