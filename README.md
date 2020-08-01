@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chilin</h1>
-<h3 align="center">A Civil Engineering tudent from Taiwan</h3>
+<h3 align="center">A Civil Engineering Student from Taiwan</h3>
 
 ### About me
  - 🔭 I’m currently working on **NCTU**
