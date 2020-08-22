@@ -14,7 +14,8 @@
  <img src="https://github.com/chilin0525/chilin0525/blob/master/img/verilog.png" alt="verilog" width="50" height="50"/></p>
   
  ### Learning 
- <p align="center"><img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/><img src="https://github.com/chilin0525/chilin0525/blob/master/img/r.jpeg" alt="r" width="50" height="50"/><img src="https://github.com/chilin0525/chilin0525/blob/master/img/fpga.png" alt="r" width="50" height="50"/></p><img src="https://github.com/chilin0525/chilin0525/blob/master/img/python.png" alt="r" width="50" height="50"/></p>
+ <p align="center"><img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/><img src="https://github.com/chilin0525/chilin0525/blob/master/img/r.jpeg" alt="r" width="50" height="50"/><img src="https://github.com/chilin0525/chilin0525/blob/master/img/fpga.png" alt="r" width="50" height="50"/></p>
+ <img src="https://github.com/chilin0525/chilin0525/blob/master/img/python.png" alt="r" width="50" height="50"/></p>
 
 ### Connect with me :smiley:
 <p align="center">
