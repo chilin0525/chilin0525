@@ -2,13 +2,13 @@
 <h3 align="center">A Computer Science Student from Taiwan</h3>
 
 ### About me
- - 🔭 I’m currently working on **NCTU**
+
+ - 🔭 I’m currently working on **NCTU**   <img src="https://github.com/chilin0525/chilin0525/blob/master/img/tenor.gif"/>
 
  - 🌱 I’m currently learning **Web Design** and **FPGA**
   
  - 📫 How to reach me **sky2502211@gmail.com**
  
- <img src="https://github.com/chilin0525/chilin0525/blob/master/img/tenor.gif" width="50" height="50"/>
 
 ### Programming Languages  :rocket:
 <p align="center"><img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="50" height="50"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> 
