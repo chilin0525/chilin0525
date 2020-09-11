@@ -4,16 +4,18 @@
 ### About me
 
 <table>
+       <tbody>
        <tr>
-           <td>🔭 I’m currently working on **NCTU**</td>
+           <td>🔭 I’m currently working on NCTU</td>
            <td><img src="https://github.com/chilin0525/chilin0525/blob/master/img/tenor.gif"/></td>
        </tr>
        <tr>
-           <td>🌱 I’m currently learning **Web Design** and **FPGA**</td>
+           <td>🌱 I’m currently learning Web Design and **FPGA**</td>
        </tr>
        <tr>
-           <td>📫 How to reach me **sky2502211@gmail.com**</td>
+           <td>📫 How to reach me sky2502211@gmail.com</td>
        </tr>
+       </tbody>
    </table>
  
 
