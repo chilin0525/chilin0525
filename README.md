@@ -3,7 +3,7 @@
 
 ### About me
 
- <img src="https://github.com/chilin0525/chilin0525/blob/master/img/tenor.gif" align="right" height=600>
+ <img src="https://github.com/chilin0525/chilin0525/blob/master/img/tenor.gif" align="right" height=550>
 
 - 🔭 I’m currently working on **NCTU**   
 
