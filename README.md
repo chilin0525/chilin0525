@@ -9,7 +9,7 @@
 
  - 🌱 I’m currently learning **Web Design** and **FPGA**
   
- - 📫 How to reach me **sky2502211@gmail.com**
+ - 📫 How to reach me **sky707070.cv07@nctu.edu.tw**
 
 ### Programming Languages  :rocket:
 <p align="center"><img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="50" height="50"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> <img src="https://github.com/chilin0525/chilin0525/blob/master/img/css.png" alt="css" width="50" height="50"/> 
