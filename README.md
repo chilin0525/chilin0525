@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **NCTU**   
 
- - 🌱 I’m currently learning **Web Design** and **FPGA**
+[//]: <> ( - 🌱 I’m currently learning **Web Design** and **FPGA**)
   
  - 📫 How to reach me **sky707070.cv07@nctu.edu.tw**
 
