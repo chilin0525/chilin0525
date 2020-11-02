@@ -1,2 +1,1 @@
-
- <img src="https://github.com/chilin0525/chilin0525/blob/master/img/tenor.gif" align="center" height=400> <img src="https://github.com/chilin0525/chilin0525/blob/master/img/tenor.gif" height=400>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=chilin0525" alt="chilin0525" /> </p>
